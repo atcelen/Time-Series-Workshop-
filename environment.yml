@@ -1,0 +1,13 @@
+name: workshop
+dependencies:
+  - numpy
+  - pandas
+  - sklearn
+  - statsmodels
+  - jupyter
+  - tensorflow
+  - keras
+  - matplotlib
+  - xgboost
+  - scikit-optimize
+  - scipy
