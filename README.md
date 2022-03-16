@@ -12,11 +12,11 @@ Linux : https://docs.anaconda.com/anaconda/install/linux/
 
 ## Creating a new environment for the workshop
 In order to install the packages that we will need during the workshop, create a new virtual environment:
-- Download this Repository as a zip file : Code -> Download Zip
+- Download this Repository as a zip file : Code -> Download Zip (The Code button is on the top of the page)
 
 - Extract the zip file
 
-- Open Anaconda Prompt and navigate to the extracted folder:
+- Open Anaconda Prompt for Windows and terminal for Mac users and navigate to the extracted folder:
 ```
 cd the\path\goes\here
 # The path should look something like this (for Windows):
