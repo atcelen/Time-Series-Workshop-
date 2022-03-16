@@ -2,12 +2,11 @@ name: workshop
 dependencies:
   - numpy
   - pandas
-  - sklearn
+  - scikit-learn
   - statsmodels
   - jupyter
   - tensorflow
   - keras
   - matplotlib
   - xgboost
-  - scikit-optimize
   - scipy
