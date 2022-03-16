@@ -32,6 +32,10 @@ conda env create -f environment.yml
 ```
 conda activate workshop
 ```
+- Install the scikit-optimize package:
+```
+pip install scikit-optimize
+```
 
 - Open up Jupyter Notebook:
 ```
